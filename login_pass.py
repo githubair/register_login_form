@@ -1,5 +1,4 @@
 from getpass import getpass
-
 # Simply register and login form in python
 
 print('Simply registration form')
